@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="C19_Traffice_singnal">
+</Property><Property Name="Solution File" Value="D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal.sln">
+</Property><Property Name="User Options File" Value="D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal.suo">
+</Property><Property Name="Date" Value="Monday, 28 February, 2022">
+</Property><Property Name="Time" Value="18:50 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="C19_Traffice_singnal.sln" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal.sln">
+</Event><Event ErrorLevel="0" Project="" Source="C19_Traffice_singnal.suo" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal.suo">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\C19_Traffice_singnal.csproj" Description="Project file successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\C19_Traffice_singnal.csproj">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\C19_Traffice_singnal.csproj.user" Description="Project user file successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\C19_Traffice_singnal.csproj.user">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Form1.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Form1.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Form1.Designer.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Program.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Program.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Properties\Settings.settings" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Form1.resx" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Form1.resx">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\Properties\Resources.resx" Description="File successfully backed up as D:\C# project\C19_Traffice_singnal\Backup\C19_Traffice_singnal\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\C19_Traffice_singnal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\C19_Traffice_singnal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="C19_Traffice_singnal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="C19_Traffice_singnal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C19_Traffice_singnal" Source="C19_Traffice_singnal\C19_Traffice_singnal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,16 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\bin\Debug\C5_rate_cal.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\bin\Debug\C5_rate_cal.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\C5_rate_cal.S1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\C5_rate_cal.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\C5_rate_cal.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\C5_rate_cal.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Debug\C5_rate_cal.pdb
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.exe
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.pdb
+D:\C# project\C5_rate_cal\bin\Debug\C5_rate_cal.exe
+D:\C# project\C5_rate_cal\bin\Debug\C5_rate_cal.pdb
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.S1.resources
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.Properties.Resources.resources
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.csproj.GenerateResource.Cache
+D:\C# project\C5_rate_cal\obj\Debug\C5_rate_cal.csprojResolveAssemblyReference.cache

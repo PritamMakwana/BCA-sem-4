@@ -1,0 +1,8 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\bin\Debug\SaveFileDialog_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\bin\Debug\SaveFileDialog_Demo.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\SaveFileDialog_Demo.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\SaveFileDialog_Demo.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\SaveFileDialog_Demo.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\SaveFileDialog_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\SaveFileDialog_Demo\obj\Debug\SaveFileDialog_Demo.pdb

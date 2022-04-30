@@ -1,0 +1,8 @@
+D:\C# project\Checkbox country\Checkbox country\bin\Debug\Checkbox country.exe
+D:\C# project\Checkbox country\Checkbox country\bin\Debug\Checkbox country.pdb
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox_country.Form1.resources
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox_country.Properties.Resources.resources
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox country.csproj.GenerateResource.Cache
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox country.exe
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox country.pdb
+D:\C# project\Checkbox country\Checkbox country\obj\x86\Debug\Checkbox country.csprojResolveAssemblyReference.cache

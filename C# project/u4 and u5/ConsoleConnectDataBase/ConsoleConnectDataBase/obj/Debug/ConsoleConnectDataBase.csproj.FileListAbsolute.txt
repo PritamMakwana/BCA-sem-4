@@ -1,0 +1,7 @@
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\bin\Debug\ConsoleData.mdf
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\bin\Debug\ConsoleData_log.ldf
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\bin\Debug\ConsoleConnectDataBase.exe
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\bin\Debug\ConsoleConnectDataBase.pdb
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\obj\Debug\ConsoleConnectDataBase.exe
+D:\c#\ConsoleConnectDataBase\ConsoleConnectDataBase\obj\Debug\ConsoleConnectDataBase.pdb

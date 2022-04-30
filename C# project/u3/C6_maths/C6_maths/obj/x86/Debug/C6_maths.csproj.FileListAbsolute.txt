@@ -1,0 +1,16 @@
+D:\C# project\C6_maths\C6_maths\bin\Debug\C6_maths.exe
+D:\C# project\C6_maths\C6_maths\bin\Debug\C6_maths.pdb
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.Form1.resources
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.Properties.Resources.resources
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.csproj.GenerateResource.Cache
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.exe
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.pdb
+D:\C# project\C6_maths\C6_maths\obj\x86\Debug\C6_maths.csprojResolveAssemblyReference.cache
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.exe
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.pdb
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\bin\Debug\C6_maths.exe
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\bin\Debug\C6_maths.pdb
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.csprojResolveAssemblyReference.cache
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.Form1.resources
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.Properties.Resources.resources
+D:\BCA\sem 4\Zpractical\C# project\u3\C6_maths\C6_maths\obj\x86\Debug\C6_maths.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\bin\Debug\keypress.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\bin\Debug\keypress.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\keypress.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\keypress.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\keypress.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\keypress.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\keypress\obj\Debug\keypress.pdb
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\keypress.exe
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\keypress.pdb
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\bin\Debug\keypress.exe
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\bin\Debug\keypress.pdb
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\keypress.Form1.resources
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\keypress.Properties.Resources.resources
+C:\Users\ksc\Documents\Visual Studio 2008\Projects\keypress\keypress\obj\Debug\keypress.csproj.GenerateResource.Cache

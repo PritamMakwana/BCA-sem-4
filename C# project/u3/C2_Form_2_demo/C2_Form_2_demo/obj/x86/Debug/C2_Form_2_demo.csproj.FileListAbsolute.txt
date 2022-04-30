@@ -1,0 +1,7 @@
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\bin\Debug\C2_Form_2_demo.exe
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\bin\Debug\C2_Form_2_demo.pdb
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\obj\x86\Debug\C2_Form_2_demo.Form1.resources
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\obj\x86\Debug\C2_Form_2_demo.Properties.Resources.resources
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\obj\x86\Debug\C2_Form_2_demo.csproj.GenerateResource.Cache
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\obj\x86\Debug\C2_Form_2_demo.exe
+D:\C# project\C2_Form_2_demo\C2_Form_2_demo\obj\x86\Debug\C2_Form_2_demo.pdb

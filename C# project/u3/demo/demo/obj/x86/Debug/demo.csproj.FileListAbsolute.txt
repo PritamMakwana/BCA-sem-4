@@ -1,0 +1,8 @@
+D:\C# project\demo\demo\bin\Debug\demo.exe
+D:\C# project\demo\demo\bin\Debug\demo.pdb
+D:\C# project\demo\demo\obj\x86\Debug\demo.Form1.resources
+D:\C# project\demo\demo\obj\x86\Debug\demo.Form2.resources
+D:\C# project\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\C# project\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+D:\C# project\demo\demo\obj\x86\Debug\demo.exe
+D:\C# project\demo\demo\obj\x86\Debug\demo.pdb

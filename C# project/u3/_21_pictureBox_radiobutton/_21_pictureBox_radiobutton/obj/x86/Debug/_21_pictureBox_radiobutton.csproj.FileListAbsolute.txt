@@ -1,0 +1,7 @@
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\obj\x86\Debug\_21_pictureBox_radiobutton.Form1.resources
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\obj\x86\Debug\_21_pictureBox_radiobutton.Properties.Resources.resources
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\obj\x86\Debug\_21_pictureBox_radiobutton.csproj.GenerateResource.Cache
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\bin\Debug\_21_pictureBox_radiobutton.exe
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\bin\Debug\_21_pictureBox_radiobutton.pdb
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\obj\x86\Debug\_21_pictureBox_radiobutton.exe
+D:\C# project\_21_pictureBox_radiobutton\_21_pictureBox_radiobutton\obj\x86\Debug\_21_pictureBox_radiobutton.pdb

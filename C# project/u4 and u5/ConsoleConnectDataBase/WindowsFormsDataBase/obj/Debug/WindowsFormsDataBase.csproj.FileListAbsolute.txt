@@ -1,0 +1,7 @@
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\bin\Debug\WindowsFormsDataBase.exe
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\bin\Debug\WindowsFormsDataBase.pdb
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\obj\Debug\WindowsFormsDataBase.Properties.Resources.resources
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\obj\Debug\WindowsFormsDataBase.csproj.GenerateResource.Cache
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\obj\Debug\WindowsFormsDataBase.exe
+D:\c#\ConsoleConnectDataBase\WindowsFormsDataBase\obj\Debug\WindowsFormsDataBase.pdb

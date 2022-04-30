@@ -1,0 +1,8 @@
+D:\C# project\C7_counter\C7_counter\bin\Debug\C7_counter.exe
+D:\C# project\C7_counter\C7_counter\bin\Debug\C7_counter.pdb
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.Form1.resources
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.Properties.Resources.resources
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.csproj.GenerateResource.Cache
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.exe
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.pdb
+D:\C# project\C7_counter\C7_counter\obj\x86\Debug\C7_counter.csprojResolveAssemblyReference.cache

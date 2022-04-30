@@ -1,0 +1,17 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\bin\Debug\Crystal_Report_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\bin\Debug\Crystal_Report_Demo.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.pdb
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.exe
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.pdb
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\bin\Debug\Crystal_Report_Demo.exe
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\bin\Debug\Crystal_Report_Demo.pdb
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\ResolveAssemblyReference.cache
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.Form1.resources
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.Form2.resources
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.Properties.Resources.resources
+F:\C# project\u4\Crystal_Report_Demo\Crystal_Report_Demo\obj\Debug\Crystal_Report_Demo.csproj.GenerateResource.Cache

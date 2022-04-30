@@ -1,0 +1,11 @@
+D:\C# project\C15_DialogBox\C15_DialogBox\bin\Debug\C15_DialogBox.exe
+D:\C# project\C15_DialogBox\C15_DialogBox\bin\Debug\C15_DialogBox.pdb
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.Form1.resources
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.Properties.Resources.resources
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.csproj.GenerateResource.Cache
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.exe
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.pdb
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.Color_DialogBox.resources
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.csprojResolveAssemblyReference.cache
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.OpenFileDialog.resources
+D:\C# project\C15_DialogBox\C15_DialogBox\obj\x86\Debug\C15_DialogBox.OpenFileDialog_demo.resources

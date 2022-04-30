@@ -1,0 +1,8 @@
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.Form1.resources
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.Properties.Resources.resources
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.csproj.GenerateResource.Cache
+D:\C# project\C14_ListBox\C14_ListBox\bin\Debug\C14_ListBox.exe
+D:\C# project\C14_ListBox\C14_ListBox\bin\Debug\C14_ListBox.pdb
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.exe
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.pdb
+D:\C# project\C14_ListBox\C14_ListBox\obj\x86\Debug\C14_ListBox.csprojResolveAssemblyReference.cache

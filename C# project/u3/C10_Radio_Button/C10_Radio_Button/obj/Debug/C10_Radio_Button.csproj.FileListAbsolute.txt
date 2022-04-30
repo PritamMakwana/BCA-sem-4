@@ -1,0 +1,14 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\bin\Debug\C10_Radio_Button.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\bin\Debug\C10_Radio_Button.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\C10_Radio_Button.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\C10_Radio_Button.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\C10_Radio_Button.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\C10_Radio_Button.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C10_Radio_Button\obj\Debug\C10_Radio_Button.pdb
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\C10_Radio_Button.exe
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\C10_Radio_Button.pdb
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\ResolveAssemblyReference.cache
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\C10_Radio_Button.Form1.resources
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\C10_Radio_Button.Properties.Resources.resources
+G:\C# project\C10_Radio_Button\C10_Radio_Button\obj\Debug\C10_Radio_Button.csproj.GenerateResource.Cache

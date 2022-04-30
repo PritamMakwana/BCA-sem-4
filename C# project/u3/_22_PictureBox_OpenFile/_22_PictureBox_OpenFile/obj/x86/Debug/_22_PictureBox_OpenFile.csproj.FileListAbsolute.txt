@@ -1,0 +1,7 @@
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\bin\Debug\_22_PictureBox_OpenFile.exe
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\bin\Debug\_22_PictureBox_OpenFile.pdb
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\obj\x86\Debug\_22_PictureBox_OpenFile.Form1.resources
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\obj\x86\Debug\_22_PictureBox_OpenFile.Properties.Resources.resources
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\obj\x86\Debug\_22_PictureBox_OpenFile.csproj.GenerateResource.Cache
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\obj\x86\Debug\_22_PictureBox_OpenFile.exe
+D:\C# project\_22_PictureBox_OpenFile\_22_PictureBox_OpenFile\obj\x86\Debug\_22_PictureBox_OpenFile.pdb

@@ -1,0 +1,8 @@
+D:\C# project\Pizza Plaza\Pizza Plaza\bin\Debug\Pizza Plaza.exe
+D:\C# project\Pizza Plaza\Pizza Plaza\bin\Debug\Pizza Plaza.pdb
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza Plaza.csprojResolveAssemblyReference.cache
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza_Plaza.Form1.resources
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza_Plaza.Properties.Resources.resources
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza Plaza.csproj.GenerateResource.Cache
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza Plaza.exe
+D:\C# project\Pizza Plaza\Pizza Plaza\obj\x86\Debug\Pizza Plaza.pdb

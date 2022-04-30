@@ -1,0 +1,8 @@
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\bin\Debug\C19_Traffice_singnal.exe
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\bin\Debug\C19_Traffice_singnal.pdb
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.Form1.resources
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.Properties.Resources.resources
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.csproj.GenerateResource.Cache
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.exe
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.pdb
+D:\C# project\C19_Traffice_singnal\C19_Traffice_singnal\obj\Debug\C19_Traffice_singnal.csprojResolveAssemblyReference.cache

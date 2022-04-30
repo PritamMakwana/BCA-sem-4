@@ -1,0 +1,9 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\bin\Debug\DataDemo.mdf
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\bin\Debug\DataDemo_log.ldf
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\bin\Debug\DataSet_class_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\bin\Debug\DataSet_class_Demo.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\obj\Debug\DataSet_class_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\DataSet_class_Demo\obj\Debug\DataSet_class_Demo.pdb
+F:\C# project\u4\DataSet_class_Demo\DataSet_class_Demo\obj\Debug\DataSet_class_Demo.exe
+F:\C# project\u4\DataSet_class_Demo\DataSet_class_Demo\obj\Debug\DataSet_class_Demo.pdb

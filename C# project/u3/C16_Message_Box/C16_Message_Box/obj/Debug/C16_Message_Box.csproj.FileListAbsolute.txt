@@ -1,0 +1,17 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\bin\Debug\C16_Message_Box.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\bin\Debug\C16_Message_Box.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\C16_Message_Box.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\C16_Message_Box.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\C16_Message_Box.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\C16_Message_Box.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C16_Message_Box\obj\Debug\C16_Message_Box.pdb
+F:\java\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.exe
+F:\java\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.pdb
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.exe
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.pdb
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\bin\Debug\C16_Message_Box.exe
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\bin\Debug\C16_Message_Box.pdb
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.Form1.resources
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.Properties.Resources.resources
+D:\BCA\sem 4\Zpractical\C# project\u3\C16_Message_Box\C16_Message_Box\obj\Debug\C16_Message_Box.csproj.GenerateResource.Cache

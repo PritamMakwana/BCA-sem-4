@@ -1,0 +1,7 @@
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\bin\Debug\C12_rotted_buttontest.exe
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\bin\Debug\C12_rotted_buttontest.pdb
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\obj\x86\Debug\C12_rotted_buttontest.Form1.resources
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\obj\x86\Debug\C12_rotted_buttontest.Properties.Resources.resources
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\obj\x86\Debug\C12_rotted_buttontest.csproj.GenerateResource.Cache
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\obj\x86\Debug\C12_rotted_buttontest.exe
+D:\C# project\C12_rotted_buttontest\C12_rotted_buttontest\obj\x86\Debug\C12_rotted_buttontest.pdb

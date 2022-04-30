@@ -1,0 +1,11 @@
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Release\userdata.mdf
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Release\userdata_log.ldf
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Release\1_CRUD_DEMO.exe
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Release\1_CRUD_DEMO.pdb
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\ResolveAssemblyReference.cache
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\_1_CRUD_DEMO.Form1.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\_1_CRUD_DEMO.Form2.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\_1_CRUD_DEMO.Properties.Resources.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\1_CRUD_DEMO.csproj.GenerateResource.Cache
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\1_CRUD_DEMO.exe
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Release\1_CRUD_DEMO.pdb

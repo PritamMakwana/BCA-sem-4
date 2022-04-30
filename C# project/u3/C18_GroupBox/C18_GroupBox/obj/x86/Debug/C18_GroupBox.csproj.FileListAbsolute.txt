@@ -1,0 +1,7 @@
+D:\C# project\C18_GroupBox\C18_GroupBox\bin\Debug\C18_GroupBox.exe
+D:\C# project\C18_GroupBox\C18_GroupBox\bin\Debug\C18_GroupBox.pdb
+D:\C# project\C18_GroupBox\C18_GroupBox\obj\x86\Debug\C18_GroupBox.Form1.resources
+D:\C# project\C18_GroupBox\C18_GroupBox\obj\x86\Debug\C18_GroupBox.Properties.Resources.resources
+D:\C# project\C18_GroupBox\C18_GroupBox\obj\x86\Debug\C18_GroupBox.csproj.GenerateResource.Cache
+D:\C# project\C18_GroupBox\C18_GroupBox\obj\x86\Debug\C18_GroupBox.exe
+D:\C# project\C18_GroupBox\C18_GroupBox\obj\x86\Debug\C18_GroupBox.pdb

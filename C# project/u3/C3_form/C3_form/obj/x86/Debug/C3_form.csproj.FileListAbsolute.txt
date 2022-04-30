@@ -1,0 +1,7 @@
+D:\C# project\C3_form\C3_form\bin\Debug\C3_form.exe
+D:\C# project\C3_form\C3_form\bin\Debug\C3_form.pdb
+D:\C# project\C3_form\C3_form\obj\x86\Debug\C3_form.Form1.resources
+D:\C# project\C3_form\C3_form\obj\x86\Debug\C3_form.Properties.Resources.resources
+D:\C# project\C3_form\C3_form\obj\x86\Debug\C3_form.csproj.GenerateResource.Cache
+D:\C# project\C3_form\C3_form\obj\x86\Debug\C3_form.exe
+D:\C# project\C3_form\C3_form\obj\x86\Debug\C3_form.pdb

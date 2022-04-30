@@ -1,0 +1,8 @@
+D:\C# project\C13_Combobox\C13_Combobox\bin\Debug\C13_Combobox.exe
+D:\C# project\C13_Combobox\C13_Combobox\bin\Debug\C13_Combobox.pdb
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.Form1.resources
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.Properties.Resources.resources
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.csproj.GenerateResource.Cache
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.exe
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.pdb
+D:\C# project\C13_Combobox\C13_Combobox\obj\x86\Debug\C13_Combobox.csprojResolveAssemblyReference.cache

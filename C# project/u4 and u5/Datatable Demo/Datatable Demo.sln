@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datatable Demo", "Datatable Demo\Datatable Demo.csproj", "{31E5AEE5-AD46-42AC-B1D3-754E15D99246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E5AEE5-AD46-42AC-B1D3-754E15D99246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E5AEE5-AD46-42AC-B1D3-754E15D99246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E5AEE5-AD46-42AC-B1D3-754E15D99246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E5AEE5-AD46-42AC-B1D3-754E15D99246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

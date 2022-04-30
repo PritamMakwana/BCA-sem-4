@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="C5_rate_cal">
+</Property><Property Name="Solution File" Value="D:\C# project\C5_rate_cal\C5_rate_cal.sln">
+</Property><Property Name="User Options File" Value="D:\C# project\C5_rate_cal\C5_rate_cal.suo">
+</Property><Property Name="Date" Value="Saturday, 12 February, 2022">
+</Property><Property Name="Time" Value="19:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="C5_rate_cal.sln" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\C5_rate_cal.sln">
+</Event><Event ErrorLevel="0" Project="" Source="C5_rate_cal.suo" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\C5_rate_cal.suo">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="C5_rate_cal.csproj" Description="Project file successfully backed up as D:\C# project\C5_rate_cal\Backup\C5_rate_cal.csproj">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Form1.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Form1.Designer.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Program.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Properties\Settings.settings" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Form1.resx" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="Properties\Resources.resx" Description="File successfully backed up as D:\C# project\C5_rate_cal\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="C5_rate_cal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C5_rate_cal" Source="C5_rate_cal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="C5_rate_cal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="C5_rate_cal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C5_rate_cal" Source="C5_rate_cal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

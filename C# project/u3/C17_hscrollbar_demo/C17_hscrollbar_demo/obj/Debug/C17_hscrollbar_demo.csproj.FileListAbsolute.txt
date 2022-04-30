@@ -1,0 +1,8 @@
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\bin\Debug\C17_hscrollbar_demo.exe
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\bin\Debug\C17_hscrollbar_demo.pdb
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\ResolveAssemblyReference.cache
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\C17_hscrollbar_demo.Form1.resources
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\C17_hscrollbar_demo.Properties.Resources.resources
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\C17_hscrollbar_demo.csproj.GenerateResource.Cache
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\C17_hscrollbar_demo.exe
+F:\java\u3\C17_hscrollbar_demo\C17_hscrollbar_demo\obj\Debug\C17_hscrollbar_demo.pdb

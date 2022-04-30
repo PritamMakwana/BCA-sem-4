@@ -1,0 +1,25 @@
+
+echo "Enter the year (YYYY)"
+read year
+
+if [ $((year % 4)) -eq 0 ] 
+then
+  if [ $((year % 100)) -eq 0 ] 
+    then
+    if [ $((year % 400)) -eq 0 ] 
+          then 
+        echo "its a leap year"
+    else
+           echo "its not a leap year"
+    fi
+  else
+  echo "Its not a leap year"
+  fi
+else
+ echo "its not a leap year"
+
+fi
+
+#Enter the year (YYYY)
+#2020
+#Its not a leap year

@@ -1,0 +1,7 @@
+D:\C# project\C9_marksheet\C9_marksheet\obj\x86\Debug\C9_marksheet.Form1.resources
+D:\C# project\C9_marksheet\C9_marksheet\obj\x86\Debug\C9_marksheet.Properties.Resources.resources
+D:\C# project\C9_marksheet\C9_marksheet\obj\x86\Debug\C9_marksheet.csproj.GenerateResource.Cache
+D:\C# project\C9_marksheet\C9_marksheet\bin\Debug\C9_marksheet.exe
+D:\C# project\C9_marksheet\C9_marksheet\bin\Debug\C9_marksheet.pdb
+D:\C# project\C9_marksheet\C9_marksheet\obj\x86\Debug\C9_marksheet.exe
+D:\C# project\C9_marksheet\C9_marksheet\obj\x86\Debug\C9_marksheet.pdb

@@ -1,0 +1,7 @@
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\bin\Debug\C17_OpenFileDialog.exe
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\bin\Debug\C17_OpenFileDialog.pdb
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\obj\x86\Debug\C17_OpenFileDialog.Form1.resources
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\obj\x86\Debug\C17_OpenFileDialog.Properties.Resources.resources
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\obj\x86\Debug\C17_OpenFileDialog.csproj.GenerateResource.Cache
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\obj\x86\Debug\C17_OpenFileDialog.exe
+D:\C# project\C17_OpenFileDialog\C17_OpenFileDialog\obj\x86\Debug\C17_OpenFileDialog.pdb

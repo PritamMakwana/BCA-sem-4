@@ -1,0 +1,8 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\bin\Release\C5_rate_cal.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\bin\Release\C5_rate_cal.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\C5_rate_cal.S1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\C5_rate_cal.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\C5_rate_cal.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\C5_rate_cal.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C5_rate_cal\obj\Release\C5_rate_cal.pdb

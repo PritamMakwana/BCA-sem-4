@@ -1,0 +1,7 @@
+D:\C# project\C8_notes\C8_notes\obj\x86\Debug\C8_notes.Form1.resources
+D:\C# project\C8_notes\C8_notes\obj\x86\Debug\C8_notes.Properties.Resources.resources
+D:\C# project\C8_notes\C8_notes\obj\x86\Debug\C8_notes.csproj.GenerateResource.Cache
+D:\C# project\C8_notes\C8_notes\bin\Debug\C8_notes.exe
+D:\C# project\C8_notes\C8_notes\bin\Debug\C8_notes.pdb
+D:\C# project\C8_notes\C8_notes\obj\x86\Debug\C8_notes.exe
+D:\C# project\C8_notes\C8_notes\obj\x86\Debug\C8_notes.pdb

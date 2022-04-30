@@ -1,0 +1,8 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\bin\Debug\C18_Timer_demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\bin\Debug\C18_Timer_demo.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\C18_Timer_demo.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\C18_Timer_demo.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\C18_Timer_demo.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\C18_Timer_demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\C18_Timer_demo\obj\Debug\C18_Timer_demo.pdb

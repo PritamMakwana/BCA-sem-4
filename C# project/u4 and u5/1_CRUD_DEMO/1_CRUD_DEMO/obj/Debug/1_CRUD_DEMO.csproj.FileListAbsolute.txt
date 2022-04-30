@@ -1,0 +1,33 @@
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata.mdf
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata_log.ldf
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.exe
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.pdb
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\ResolveAssemblyReference.cache
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form1.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form2.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Properties.Resources.resources
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.csproj.GenerateResource.Cache
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.exe
+F:\C# project\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.pdb
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.exe
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.pdb
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata.mdf
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata_log.ldf
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.exe
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.pdb
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form1.resources
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form2.resources
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form3.resources
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Properties.Resources.resources
+D:\C# project\u4\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.csproj.GenerateResource.Cache
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.exe
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.pdb
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata.mdf
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\userdata_log.ldf
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.exe
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\bin\Debug\1_CRUD_DEMO.pdb
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form1.resources
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form2.resources
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Form3.resources
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\_1_CRUD_DEMO.Properties.Resources.resources
+D:\BCA\sem 4\Zpractical\C# project\u4 and u5\1_CRUD_DEMO\1_CRUD_DEMO\obj\Debug\1_CRUD_DEMO.csproj.GenerateResource.Cache

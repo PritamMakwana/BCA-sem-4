@@ -1,0 +1,10 @@
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\bin\Debug\_PictureBox_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\bin\Debug\_PictureBox_Demo.pdb
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.Form1.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.Properties.Resources.resources
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.csproj.GenerateResource.Cache
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.exe
+C:\Users\ksc\AppData\Local\Temporary Projects\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.pdb
+F:\C# project\_PictureBox_Demo\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.exe
+F:\C# project\_PictureBox_Demo\_PictureBox_Demo\obj\Debug\_PictureBox_Demo.pdb
